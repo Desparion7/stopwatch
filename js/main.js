@@ -50,6 +50,7 @@ const handleStop = () => {
 		timeArr.push(stopwatch.textContent);
 	}
 
+
 	if (timeList.hasChildNodes()) {
 		showHistory();
 	}
